@@ -1,3 +1,2 @@
 # vue-skeleton-loading-components
 skeleton-loading
-import from ...
